@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Poprawakola\Poprawakola\bin\Debug\Poprawakola.exe.config
+C:\Users\local\Desktop\Poprawakola\Poprawakola\bin\Debug\Poprawakola.exe
+C:\Users\local\Desktop\Poprawakola\Poprawakola\bin\Debug\Poprawakola.pdb
+C:\Users\local\Desktop\Poprawakola\Poprawakola\obj\Debug\Poprawakola.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Poprawakola\Poprawakola\obj\Debug\Poprawakola.exe
+C:\Users\local\Desktop\Poprawakola\Poprawakola\obj\Debug\Poprawakola.pdb
